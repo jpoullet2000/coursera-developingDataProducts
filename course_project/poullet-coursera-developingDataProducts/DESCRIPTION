@@ -1,0 +1,7 @@
+Title: Fitting a regression model on mtcars data  
+Author: Jean-Baptiste Poullet <jeanbaptistepoullet@statrgy.com>
+AuthorUrl: http://www.statrgy.com
+License: MIT
+DisplayMode: Showcase
+Tags: regression model
+Type: Shiny
